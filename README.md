@@ -44,6 +44,7 @@ In addition, the application will have real-time alert notifications via Telegra
 - Java [Spring Boot] (Backend - User validation, events fetch from DB)
 - C++ (ESP8266 and HW-201 logic)
 - Bash (Automation of Python scripts execution)
+- MongoDB on cloud (storage events data)
 - Ultralytics pre-trained models
 
 ## Application in action
