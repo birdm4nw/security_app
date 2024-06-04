@@ -6,10 +6,6 @@
     <td><img src="documentation/results_home.png" alt="Results Home" style="margin-right: 20px;"></td>
     <td><img src="documentation/results_dashboard.png" alt="Results Dashboard"></td>
   </tr>
-  <tr>
-    <td align="center">IP Camera Tapo C200</td>
-    <td align="center">Circuit</td>
-  </tr>
 </table>
 
 The following project aims to provide a security solution based on the implementation of IoT technologies and the use of an artificial vision model for real-time detection of the flow of people in a given space through a security camera that works under the RTSP protocol and an infrared motion sensor. The approach of this solution involves the integration of technologies that will allow the user to interact with a real-time monitoring system through a web application with three main modules:
