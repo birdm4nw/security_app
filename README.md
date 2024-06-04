@@ -46,7 +46,7 @@ In addition, the application will have real-time alert notifications via Telegra
 - Bash (Automation of Python scripts execution)
 - Ultralytics pre-trained models
 
-## Workflow
+## Application in action
 
 ### Login Page
 
@@ -75,4 +75,6 @@ In addition, the application will have real-time alert notifications via Telegra
     <td><img src="documentation/telegram-screenshot-2.png" alt="telegram"></td>
   </tr>
 </table>
+
+### For more information look for the PDF documentation file located into "documentation" folder.
 
