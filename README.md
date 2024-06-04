@@ -68,4 +68,11 @@ In addition, the application will have real-time alert notifications via Telegra
 
 ![Help Section](documentation/results_help.png)
 
+### Telegram Received Data Sample
+<table>
+  <tr>
+    <td><img src="documentation/telegram-screenshot.png" alt="telegram" style="margin-right: 20px;"></td>
+    <td><img src="documentation/telegram-screenshot-2.png" alt="telegram"></td>
+  </tr>
+</table>
 
