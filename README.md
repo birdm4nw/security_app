@@ -12,19 +12,27 @@ In addition, the application will have real-time alert notifications via Telegra
 
 <table>
   <tr>
-    <td><img src="documentation/results_home.png" alt="Results Home"></td>
-    <td><img src="documentation/results_dashboard.png" alt="Results Dashboard"></td>
+    <td><img src="documentation/camera.jpeg" alt="IP Camera Tapo C200" style="margin-right: 20px;"></td>
+    <td><img src="documentation/circuit.jpeg" alt="Circuit"></td>
   </tr>
   <tr>
-    <td align="center">Results Home</td>
-    <td align="center">Results Dashboard</td>
+    <td align="center">IP Camera Tapo C200</td>
+    <td align="center">Circuit</td>
   </tr>
 </table>
 
 ## Hardware
 
-![IP Camera Tapo C200](documentation/camera.jpeg)
-![Circuit](documentation/circuit.jpeg)
+<table>
+  <tr>
+    <td><img src="documentation/camera.jpeg" alt="IP Camera Tapo C200" style="margin-right: 20px;"></td>
+    <td><img src="documentation/circuit.jpeg" alt="Circuit"></td>
+  </tr>
+  <tr>
+    <td align="center">IP Camera Tapo C200</td>
+    <td align="center">Circuit</td>
+  </tr>
+</table>
 
 - IP Camera Tapo C200
 - Laptop camera (for testing)
@@ -64,4 +72,5 @@ In addition, the application will have real-time alert notifications via Telegra
 ### Help Section
 
 ![Help Section](documentation/results_help.png)
+
 
