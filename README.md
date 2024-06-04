@@ -10,6 +10,17 @@ The following project aims to provide a security solution based on the implement
 
 In addition, the application will have real-time alert notifications via Telegram.
 
+<table>
+  <tr>
+    <td><img src="documentation/results_home.png" alt="Results Home"></td>
+    <td><img src="documentation/results_dashboard.png" alt="Results Dashboard"></td>
+  </tr>
+  <tr>
+    <td align="center">Results Home</td>
+    <td align="center">Results Dashboard</td>
+  </tr>
+</table>
+
 ## Hardware
 
 ![IP Camera Tapo C200](documentation/camera.jpeg)
