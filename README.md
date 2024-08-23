@@ -79,3 +79,4 @@ In addition, the application will have real-time alert notifications via Telegra
 
 ### For more information look for the PDF documentation file located into "documentation" folder.
 
+**Author:** @birdm4nw
