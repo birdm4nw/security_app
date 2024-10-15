@@ -77,6 +77,9 @@ In addition, the application will have real-time alert notifications via Telegra
   </tr>
 </table>
 
-### For more information look for the PDF documentation file located into "documentation" folder.
+> [!IMPORTANT]
+> See full documentation:
+
+🔗 [View document](documentation/sec_app_doc.pdf)
 
 **Author:** @birdm4nw
